@@ -1,0 +1,2 @@
+# Nói git rằng những file này không yêu cầu git quản lý
+.env
